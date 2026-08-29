@@ -4,6 +4,8 @@ Material didático e análise reprodutível para a disciplina **MAE116 – Noç�
 
 O projeto utiliza resultados históricos da Mega-Sena para explorar conceitos introdutórios de probabilidade, variabilidade aleatória, comparação entre modelo probabilístico e dados observados e raciocínio estatístico.
 
+O objetivo da atividade não é estudar loterias nem estratégias de aposta, mas utilizar um contexto familiar para desenvolver raciocínio probabilístico e estatístico, comparando probabilidades previstas por um modelo com frequências observadas em dados reais e discutindo a variabilidade esperada em sequências finitas de sorteios.
+
 ## Atividade online
 
 **Versão HTML da atividade:**
