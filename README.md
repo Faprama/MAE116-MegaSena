@@ -76,6 +76,9 @@ MAE116-MegaSena/
 ├── DataSet-MegaSena.Rproj
 ├── analise_megasena.R
 ├── atividade_megasena.Rmd
+├── index.html
 ├── README.md
 ├── .gitignore
+├── LICENSE-MIT.txt
+├── LICENSE-CC-BY-4.0.txt
 └── resultados/
