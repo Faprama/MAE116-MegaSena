@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+*_files/
+*_cache/
+
+.DS_Store
+Thumbs.db
+Mega-Sena.xlsx

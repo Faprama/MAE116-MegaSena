@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Anatoli Iambartsev and Fábio Machado
+
+O conteúdo didático deste repositório, incluindo textos, atividades,
+explicações, tabelas e materiais produzidos para a disciplina MAE116 –
+Noções de Estatística, é disponibilizado sob a licença Creative Commons
+Attribution 4.0 International (CC BY 4.0).
+
+Você pode compartilhar e adaptar este material para qualquer finalidade,
+inclusive comercial, desde que seja fornecida atribuição apropriada aos
+autores, seja indicado se foram feitas alterações e não sejam impostas
+restrições adicionais incompatíveis com a licença.
+
+Texto oficial da licença:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Texto jurídico completo:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
