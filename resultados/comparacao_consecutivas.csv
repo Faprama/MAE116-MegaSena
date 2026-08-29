@@ -1,0 +1,3 @@
+"evento","prob_teorica","n_observado","freq_observada","prob_teorica_pct","freq_observada_pct","diferenca_pct"
+"Pelo menos um par consecutivo",0.420946067682356,1279,0.419619422572178,42.0946067682356,41.9619422572178,-0.13266451101776
+"Nenhum par consecutivo",0.579053932317644,1769,0.580380577427821,57.9053932317644,58.0380577427821,0.132664511017755
